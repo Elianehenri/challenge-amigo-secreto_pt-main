@@ -33,6 +33,12 @@ Aqui estão algumas imagens do projeto em funcionamento:
 ![Lista do amigos](assets/img2.png)
 ![Resultado do sorteio](assets/img3.png)
 
+# Challenge Amigo Secreto 🎁  
+
+Acesse o projeto online clicando no link abaixo:  
+
+👉 [Challenge Amigo Secreto](https://elianehenri.github.io/challenge-amigo-secreto_pt-main/)  
+
 # Autor
 Eliane Henriqueta
 
