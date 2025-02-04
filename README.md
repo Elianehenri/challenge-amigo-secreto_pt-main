@@ -1,6 +1,11 @@
-# Amigo Secreto
+# Challenge Amigo Secreto 🎁  
+
 
 Este é um projeto simples de Amigo Secreto desenvolvido em HTML, CSS e JavaScript. O objetivo é permitir que usuários adicionem nomes de participantes e realizem um sorteio aleatório.
+
+Acesse o projeto online clicando no link abaixo:  
+
+👉 [Challenge Amigo Secreto](https://elianehenri.github.io/challenge-amigo-secreto_pt-main/)  
 
 ## Funcionalidades
 
@@ -33,11 +38,7 @@ Aqui estão algumas imagens do projeto em funcionamento:
 ![Lista do amigos](assets/img2.png)
 ![Resultado do sorteio](assets/img3.png)
 
-# Challenge Amigo Secreto 🎁  
 
-Acesse o projeto online clicando no link abaixo:  
-
-👉 [Challenge Amigo Secreto](https://elianehenri.github.io/challenge-amigo-secreto_pt-main/)  
 
 # Autor
 Eliane Henriqueta
